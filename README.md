@@ -1,8 +1,7 @@
 # Explainable Exoplanet Classification and Ranking System
 
 **IT Workshop III - Course Project (Python)**
-Name: Shaeel Santosh Hasepatil | Roll No.: 2025BCS0133 | IIIT Kottayam
-Faculty: Dr P. Victer Paul
+Name: Shaeel Santosh Hasepatil | Roll No.: 2025BCS0133
 
 A machine-learning project on NASA's Kepler data. It tells real planets apart from false positives, ranks the signals that are still undecided, explains its decisions, saves predictions in a database and has a small web app.
 
